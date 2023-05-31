@@ -22,7 +22,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: Emanuelmachadosilva@outlook.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://www.flaticon.com/br/icone-gratis/gmail_281769">
     </a>
     <a href = "https://www.linkedin.com/in/emanuel-machado-50397914a/">
       <img width="25" src="linkedin.svg">
